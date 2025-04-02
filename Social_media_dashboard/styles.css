@@ -1,0 +1,22 @@
+.app-container {
+    font-family: Arial,sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.top-users,
+.trending-posts,
+.feed {
+    margin: 20px auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 5px;
+}
